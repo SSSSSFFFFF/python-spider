@@ -498,3 +498,43 @@
 {"range": "498", "iamge": "http://img3m3.ddimg.cn/73/27/27913123-1_l_3.jpg", "title": "余生，请多指教（肖战、杨紫主演电视剧原著小说）", "recommend": "100%推荐", "author": "柏林石匠", "times": "130次", "price": "27.40"}
 {"range": "499", "iamge": "http://img3m5.ddimg.cn/46/31/25079815-1_l_2.jpg", "title": "牛津初阶英汉双解词典（第4版）", "recommend": "100%推荐", "author": "艾莉森・沃特斯", "times": "854次", "price": "41.10"}
 {"range": "500", "iamge": "http://img3m7.ddimg.cn/36/29/25126137-1_l_1.jpg", "title": "昆虫记（文前33张共8页高清彩色照片图+系统分类目录+昆虫谱系表+大量详注+颠覆性纠错，帮你构筑系统、正确的知识体系）", "recommend": "99.9%推荐", "author": "亨利・法布尔", "times": "2073次", "price": "31.50"}
+{"range": "1", "iamge": "http://img3m5.ddimg.cn/3/20/27847515-1_l_6.jpg", "title": "摆渡人3无境之爱（千万畅销心灵治愈小说“摆渡人”系列完结篇，令无数读者灵魂震颤的人性救赎之作！）", "recommend": "100%推荐", "author": "克莱儿・麦克福尔", "times": "30472次", "price": "37.50"}
+{"range": "2", "iamge": "http://img3m2.ddimg.cn/24/16/25301652-1_l_3.jpg", "title": "最佳命中率", "recommend": "100%推荐", "author": "六识", "times": "6443次", "price": "37.80"}
+{"range": "3", "iamge": "http://img3m8.ddimg.cn/90/28/25197768-1_l_8.jpg", "title": "无可替代的你", "recommend": "99.9%推荐", "author": "四十二吨", "times": "5683次", "price": "19.40"}
+{"range": "4", "iamge": "http://img3m0.ddimg.cn/10/28/25345990-1_l_3.jpg", "title": "间谍之死(拒绝好莱坞翻拍的年度作品，刺激程度超越《碟中谍》，更好看的悬疑推理小说，，更精彩的高科技犯罪！屏住呼吸，追击即将开始) 纤阅出品", "recommend": "99.9%推荐", "author": "丹・马里兰", "times": "28798次", "price": "22.20"}
+{"range": "5", "iamge": "http://img3m1.ddimg.cn/46/27/25254451-1_l_5.jpg", "title": "《另类间谍》（推理小说名家赫尔曼之战争三部曲 展现人性深处的生死博弈）", "recommend": "100%推荐", "author": "莉比・菲舍尔・赫尔曼", "times": "16810次", "price": "11.30"}
+{"range": "6", "iamge": "http://img3m9.ddimg.cn/20/28/25317389-1_l_3.jpg", "title": "委托人DOCTOR（全2册）", "recommend": "100%推荐", "author": "福禄丸子", "times": "7814次", "price": "37.80"}
+{"range": "7", "iamge": "http://img3m0.ddimg.cn/87/10/25303200-1_l_1.jpg", "title": "藏在回忆里的风景（全二册）", "recommend": "100%推荐", "author": "素光同", "times": "7508次", "price": "37.80"}
+{"range": "8", "iamge": "http://img3m1.ddimg.cn/96/22/24157581-1_l_15.jpg", "title": "魔力四射：如何打动、亲近和影响他人（一本改变人生思维方式的魔力读物，助你掌握社交技巧与领导魅力）", "recommend": "100%推荐", "author": "帕特里克・金", "times": "19850次", "price": "12.40"}
+{"range": "9", "iamge": "http://img3m2.ddimg.cn/63/12/27904302-1_l_3.jpg", "title": "金融街没有爱情（Ⅰ、Ⅱ）", "recommend": "100%推荐", "author": "刘�h", "times": "3460次", "price": "66.00"}
+{"range": "10", "iamge": "http://img3m0.ddimg.cn/44/16/25574120-1_l_3.jpg", "title": "Java Web开发实战", "recommend": "100%推荐", "author": "千锋教育高教产品研发部", "times": "5037次", "price": "69.00"}
+{"range": "11", "iamge": "http://img3m8.ddimg.cn/34/29/27921598-1_l_4.jpg", "title": "Python快乐编程基础入门（21世纪高等学校计算机专业实用规划教材）", "recommend": "100%推荐", "author": "千锋教育高教产品研发部", "times": "5050次", "price": "34.70"}
+{"range": "12", "iamge": "http://img3m9.ddimg.cn/88/20/27924919-1_l_6.jpg", "title": "夜间经济学", "recommend": "100%推荐", "author": "鬼虎子", "times": "4917次", "price": "34.50"}
+{"range": "13", "iamge": "http://img3m8.ddimg.cn/8/26/25345988-1_l_1.jpg", "title": "有话说出来！（彻底颠覆社会人脉的固有方式，社交电池帮你搞定社交。社交恐惧症患者必须拥有的一本实用社交指南，初入大学和职场的必备“攻略”，拿起这本书，你也是“魏璎珞”）纤阅出品", "recommend": "100%推荐", "author": "帕特里克・金", "times": "28519次", "price": "16.30"}
+{"range": "14", "iamge": "http://img3m6.ddimg.cn/39/17/27931206-1_l_541.jpg", "title": "人间值得（90岁心理医生恒子奶奶写给生活的哲思小书）", "recommend": "99.9%推荐", "author": "中村恒子", "times": "2238次", "price": "38.00"}
+{"range": "15", "iamge": "http://img3m1.ddimg.cn/17/10/27877031-1_l_3.jpg", "title": "聪明的销售员都会讲故事", "recommend": "100%推荐", "author": "叶小荣", "times": "1908次", "price": "38.50"}
+{"range": "16", "iamge": "http://img3m6.ddimg.cn/11/6/26482016-1_l_4.jpg", "title": "品牌营销：新零售时代品牌运营", "recommend": "99.9%推荐", "author": "官税冬", "times": "3629次", "price": "48.60"}
+{"range": "17", "iamge": "http://img3m4.ddimg.cn/85/21/27889474-1_l_2.jpg", "title": "养成良好习惯，高效管理时间", "recommend": "100%推荐", "author": "杰米・希尔", "times": "14630次", "price": "13.60"}
+{"range": "18", "iamge": "http://img3m4.ddimg.cn/0/25/24157584-1_l_12.jpg", "title": "克隆版大脑（如果你脑子里的一切都被计算机复制，会发生什么事？国际斯坦福研究协会人工智能中心首席科学家理查德・瓦尔丁格倾力推荐）", "recommend": "100%推荐", "author": "大卫・沃尔夫", "times": "8582次", "price": "15.20"}
+{"range": "19", "iamge": "http://img3m7.ddimg.cn/7/25/25345987-1_l_3.jpg", "title": "安娜（“没有人写的比梅根・莱丽好！”星际宇宙、身世之谜、变异、幻觉、暗恋、成长……校园科幻小说经典之作，在这里追溯本源，探寻真实）纤阅出品", "recommend": "100%推荐", "author": "梅根・莱丽", "times": "5130次", "price": "21.40"}
+{"range": "20", "iamge": "http://img3m8.ddimg.cn/87/27/27919968-1_l_12.jpg", "title": "国家宝藏日历2020年", "recommend": "99.9%推荐", "author": "盖钰涵", "times": "1255次", "price": "49.90"}
+{"range": "21", "iamge": "http://img3m0.ddimg.cn/69/18/27918960-1_l_5.jpg", "title": "协和专家说长高：让孩子多长10厘米", "recommend": "99.9%推荐", "author": "潘慧", "times": "1121次", "price": "41.50"}
+{"range": "22", "iamge": "http://img3m9.ddimg.cn/88/28/27919969-1_l_12.jpg", "title": "飞花令里读诗词 日历2020年", "recommend": "100%推荐", "author": "琬如", "times": "1178次", "price": "49.90"}
+{"range": "23", "iamge": "http://img3m7.ddimg.cn/15/3/27915837-1_l_3.jpg", "title": "抖音营销138招：一本书教会你玩赚抖音", "recommend": "100%推荐", "author": "招商哥", "times": "2501次", "price": "44.30"}
+{"range": "24", "iamge": "http://img3m5.ddimg.cn/55/10/27917065-1_l_9.jpg", "title": "向着你的方向生长", "recommend": "100%推荐", "author": "苑子文", "times": "1043次", "price": "28.10"}
+{"range": "25", "iamge": "http://img3m1.ddimg.cn/19/32/27904951-1_l_5.jpg", "title": "曾国藩传（“清史研究第一人”萧一山经典之作，深度影响张宏杰等研究者。）", "recommend": "100%推荐", "author": "萧一山", "times": "1002次", "price": "45.10"}
+{"range": "26", "iamge": "http://img3m3.ddimg.cn/42/20/27887253-1_l_6.jpg", "title": "生活需要淡定感（《哈利・波特》作者J.K.罗琳  重点推荐）", "recommend": "100%推荐", "author": "威廉姆・布鲁姆", "times": "4352次", "price": "12.10"}
+{"range": "27", "iamge": "http://img3m2.ddimg.cn/6/12/27906522-1_l_2.jpg", "title": "给孩子看世界名画（《给孩子读诗》《孩子们的诗》同系列新品。从人类绘画的璀璨星河中精心挑选出一百幅适合孩子们的画）", "recommend": "100%推荐", "author": "果麦", "times": "1099次", "price": "78.30"}
+{"range": "28", "iamge": "http://img3m0.ddimg.cn/35/14/27920510-1_l_3.jpg", "title": "幼稚园 你们人类的爱情真难攻破（韩寒主编「幼稚园」系列第2期。李诞、傅首尔、荞麦、韩松落、陈谌等严肃地讨论爱，用科幻实验爱）", "recommend": "99.9%推荐", "author": "韩寒", "times": "1017次", "price": "40.60"}
+{"range": "29", "iamge": "http://img3m3.ddimg.cn/14/25/25109483-1_l_3.jpg", "title": "新手小白开公司：注册、财务、运营一本通", "recommend": "99.9%推荐", "author": "叶小荣", "times": "8549次", "price": "39.80"}
+{"range": "30", "iamge": "http://img3m9.ddimg.cn/34/13/27920509-1_l_8.jpg", "title": "从一到无穷大（清华大学新生礼物，校长邱勇推荐！从一粒原子到无穷宇宙，一本书汇集人类认识世界、探索宇宙的方方面面）【果麦经典】", "recommend": "100%推荐", "author": "乔治・伽莫夫", "times": "1001次", "price": "58.00"}
+{"range": "31", "iamge": "http://img3m4.ddimg.cn/65/16/27912224-1_l_2.jpg", "title": "戴建业 你听懂了没有（国民教授戴建业随笔精选集。陈引驰、骆玉明、六神磊磊推荐！火辣辣的文字写人生百态，有才有识，有情有趣！）", "recommend": "100%推荐", "author": "戴建业", "times": "1053次", "price": "55.50"}
+{"range": "32", "iamge": "http://img3m9.ddimg.cn/42/13/27903489-1_l_3.jpg", "title": "美学四讲：与《美的历程》《华夏美学》并称李泽厚“美学三书”，深刻影响中国一代知识分子的经典美学之作", "recommend": "100%推荐", "author": "李泽厚", "times": "1235次", "price": "30.80"}
+{"range": "33", "iamge": "http://img3m2.ddimg.cn/80/31/27879272-1_l_3.jpg", "title": "我也会发明（第二辑）", "recommend": "100%推荐", "author": "诸敏刚", "times": "523次", "price": "38.70"}
+{"range": "34", "iamge": "http://img3m5.ddimg.cn/56/4/23761145-1_l_6.jpg", "title": "人间失格（日本小说家太宰治的自传体小说，李现推荐）", "recommend": "100%推荐", "author": "太宰治", "times": "15476次", "price": "17.50"}
+{"range": "35", "iamge": "http://img3m6.ddimg.cn/62/21/27925586-1_l_6.jpg", "title": "我的表达能力顶呱呱：3~6岁表达能力提升绘本（国际安徒生奖昆廷・布莱克，创造英国童书历史的大师）（套装共5册）", "recommend": "100%推荐", "author": "昆廷・布莱克", "times": "510次", "price": "197.10"}
+{"range": "36", "iamge": "http://img3m5.ddimg.cn/22/21/27911785-1_l_2.jpg", "title": "戴建业 澄明之境――陶渊明新论（2019全新升级版，国民教授戴建业：“陶渊明种的个鬼田，换了我绝不写诗！”陈引驰、六神磊磊推荐）", "recommend": "100%推荐", "author": "戴建业", "times": "1018次", "price": "61.20"}
+{"range": "37", "iamge": "http://img3m0.ddimg.cn/16/19/27916630-1_l_9.jpg", "title": "从偶然到必然：华为研发投资与管理实践  团购电话:4001066666转6", "recommend": "100%推荐", "author": "夏忠毅", "times": "507次", "price": "51.80"}
+{"range": "38", "iamge": "http://img3m5.ddimg.cn/48/19/27903495-1_l_2.jpg", "title": "华夏美学：与《美的历程》《美学四讲》并称李泽厚“美学三书”，深刻洞见中华传统美学，一本书读懂中国美学史", "recommend": "100%推荐", "author": "李泽厚", "times": "1014次", "price": "31.40"}
+{"range": "39", "iamge": "http://img3m6.ddimg.cn/48/30/27899436-1_l_2.jpg", "title": "海上大教堂（全球销量超过220万册，连续24个月雄踞畅销榜，获西班牙巴斯克文学奖、意大利薄迦丘文学奖）", "recommend": "100%推荐", "author": "伊德方索・法孔内斯", "times": "1004次", "price": "63.60"}
+{"range": "40", "iamge": "http://img3m7.ddimg.cn/17/26/27911087-1_l_6.jpg", "title": "歌德谈话录（读完《歌德谈话录》，才明白什么叫格局！精装双封印银典藏版！歌德金质奖章获得者经典译本）【果麦经典】", "recommend": "100%推荐", "author": "爱克曼", "times": "998次", "price": "41.20"}
