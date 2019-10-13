@@ -28,6 +28,9 @@
     <Compile Include="beautifulsoup.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="xlwtTest.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="zhihu.py">
       <SubType>Code</SubType>
     </Compile>
